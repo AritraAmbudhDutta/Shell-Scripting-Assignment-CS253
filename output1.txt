@@ -1,0 +1,41 @@
+Unique IP addresses:
+192.168.1.1
+192.168.1.111
+192.168.1.112
+192.168.1.2
+192.168.1.3
+192.168.1.4
+192.168.1.5
+192.168.1.6
+192.168.1.7
+
+Top 3 HTTP methods:
+GET: 4
+DELETE: 3
+POST: 2
+
+Requests per hour:
+Hour 0: 0 requests
+Hour 1: 0 requests
+Hour 2: 0 requests
+Hour 3: 0 requests
+Hour 4: 0 requests
+Hour 5: 0 requests
+Hour 6: 1 requests
+Hour 7: 1 requests
+Hour 8: 0 requests
+Hour 9: 1 requests
+Hour 10: 2 requests
+Hour 11: 0 requests
+Hour 12: 1 requests
+Hour 13: 0 requests
+Hour 14: 1 requests
+Hour 15: 1 requests
+Hour 16: 1 requests
+Hour 17: 0 requests
+Hour 18: 0 requests
+Hour 19: 0 requests
+Hour 20: 0 requests
+Hour 21: 0 requests
+Hour 22: 0 requests
+Hour 23: 1 requests

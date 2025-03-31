@@ -1,0 +1,9 @@
+2 # Common prefix of 'apple' and 'apricot' is 'ap'
+3 # Common prefix of 'banana' and 'banter' is 'ban'
+2 # Common prefix of 'cherry' and 'chocolate' is 'ch'
+4 # Common prefix of 'computer' and 'compatibility' is 'comp'
+4 # Common prefix of 'test' and 'testing' is 'test'
+0 # Common prefix of 'operation' and 'concentrate' is none
+5 # Common prefix of 'messi' and 'messiah' is 'messi'
+3 # Common prefix of 'IITB' and 'IITK' is 'IIT'
+0 # Common prefix of '' and 'Dhoni' is none
